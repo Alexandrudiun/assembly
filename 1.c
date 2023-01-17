@@ -91,7 +91,7 @@ void disassemble_instruction(unsigned int instruction) {
             printf("HLT\n");
             break;
     }
-                         }}}
+  }
 
 int main() {
     // initialize all registers to zero
